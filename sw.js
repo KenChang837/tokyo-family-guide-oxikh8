@@ -1,5 +1,5 @@
 // sw.js — 先回快取秒開，背景更新，重開兩次內收到新版。由 pack.py 產生。
-const CACHE_NAME = 'tokyo-family-guide-202607081608';
+const CACHE_NAME = 'tokyo-family-guide-202607081734';
 const URLS_TO_CACHE = ['./', './index.html'];
 
 self.addEventListener('install', function (event) {
